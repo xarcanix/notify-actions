@@ -1,4 +1,4 @@
-name: telegram message
+name: Telegram Notification
 on: [push]
 jobs:
 
