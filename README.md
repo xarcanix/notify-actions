@@ -8,3 +8,6 @@ https://github.com/marketplace/actions/telegram-message-notify
 
 # slack notify based on:
 https://github.com/marketplace/actions/slack-notify
+
+## Support
+:star2:
